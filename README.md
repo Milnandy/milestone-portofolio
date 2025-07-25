@@ -35,6 +35,7 @@ This project is a simple yet elegant personal landing page that serves as an onl
 - **Cloudflare** - for relocate server name with more feature
 - **DaisyUI5** - tailwindv4 component and theme
 - **HyperUI** - tailwindv4 component
+- **SEOptimer** - meta data generator for optimizing metadata
 
 ## How to Use
 
@@ -50,6 +51,11 @@ Input code below on HTML head
 
 <!-- daisyui all theme -->
 <link href="https://cdn.jsdelivr.net/npm/daisyui@5/themes.css" rel="stylesheet" type="text/css" />
+
+<!-- google font Bungee & Montserrat -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
 ```
 
